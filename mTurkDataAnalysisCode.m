@@ -1,5 +1,5 @@
 %code for the paper:
-%On quality and reliability of the Amazon Mechanical Turk (mTurk) data in 2024: Challenges, pitfalls and recommendations
+%Examining the quality and reliability of the Amazon Mechanical Turk (mTurk) data in 2024
 %Shimoni & Axelrod
 function compareCatch_TwoRepeatsConsistency_MultipleFiles()
 
